@@ -1,0 +1,30 @@
+Cleaning data:
+
+1)Excel Sheet: Intentional Homicide
+
+In ISO_3 Code: Removed all unnecessary codes like CBR_S, SAF,ZAAF
+
+COUNTRY: Removed world data
+VALUE: Removed 0
+
+2)Excel Sheet: Violent and Sexual Crime
+
+ISO_3 Code: Removed all unnecessary codes like CBR_S, SAF,ZAAF
+
+Value: Removed 0
+
+3)Excel Sheet: Glotip_trafficking
+
+In ISO_code, country, region: Removed blank values
+Age: removed unknown values
+
+
+4)Excel Sheet: Firearms
+
+Sex, Age: removed na and unknown values
+Value: Removed 0 values
+
+5) Excel Sheet: Corruption and Economic crimes
+
+Value: Removed 0 values
+
